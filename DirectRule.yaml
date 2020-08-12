@@ -1,0 +1,7 @@
+payload:
+  # > company
+  - DOMAIN-KEYWORD,syzx,DIRECT
+  # > tencent
+  - DOMAIN-KEYWORD,lexiangla,DIRECT
+  # > freenom
+  - DOMAIN-KEYWORD,freenom,DIRECT
