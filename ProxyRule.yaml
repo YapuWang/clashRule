@@ -2,4 +2,5 @@ payload:
    # > appledaily
   - DOMAIN-SUFFIX,appledaily.com
   - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,epochtimes.com
   
